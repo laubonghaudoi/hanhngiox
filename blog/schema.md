@@ -27,17 +27,13 @@ sidebar_sort_order: 3
 
 吴语学堂的官网地址：
 
-- [**吴语学堂**](http://www.goetian.net)
+- [吳語學堂](https://www.wugniu.com/)
 
-吴语学堂还提供了太湖片、瓯江片、宣州片多地口音的查询字典：
+吴语学堂还提供了太湖片、瓯江片、宣州片多地口音的查询字典.想尽快学会用吴语拼音打字的朋友，可以直接阅读吴语学堂提供的基本介绍和教程：
 
-- [**吳語學堂**](https://www.wugniu.com/)
-
-想尽快学会用吴语拼音打字的朋友，可以直接阅读官网提供的基本介绍和教程：
-
-- [**吴语基础知识及吴语学堂拼音教程**](http://www.goetian.net/main/index.php?s=/Home/Article/lists/category/basic.html)
-
-- [**吴语拼音方案**](http://www.goetian.net/main/index.php?s=/Dic/Scheme/index.html)
+- [上海话拼音方案](https://www.wugniu.com/yinxi/shanghai)
+- [宁波话吴拼教程](https://shinzoqchiuq.github.io/gninpou-tutorial/)
+- [蘇州吳語拼音輸入方案](https://github.com/NGLI/rime-wugniu_soutseu)
 
 对于想学习苏州话的朋友，吴语学堂的子团队苏白学堂提供了免费完善的苏州话教材、练习册和听力材料，可从其微信公众号**class_sz**获取。
 
@@ -47,19 +43,23 @@ sidebar_sort_order: 3
 
 粤语广州话有一个权威的拼音方案，即粤拼，全称为「香港语言学学会粤语拼音方案」。官方简介：
 
-- [**粵拼**](https://www.lshk.org/jyutping)
+- [粵拼](https://www.lshk.org/jyutping)
 
 对于本来就会说粤语的朋友，可以在几分钟内就学会粤拼，结合中州韵输入法的反查系统，很快就能熟练使用粤拼打字。而对于想学习粤语的朋友，使用粤拼打字能大幅提高学习效率，纠正练习粤语发音。学习粤拼只需要阅读来自知乎荷达的这篇文章：
 
-- [**全新粤语拼音速成法(611次声调辨析)**](https://zhuanlan.zhihu.com/p/22005669)
+- [全新粤语拼音速成法(611次声调辨析)](https://zhuanlan.zhihu.com/p/22005669)
 
 对于以粤语为母语，想尽快学会用粤拼打字的朋友，可以跳过文章开头的声调部分（输入法打字无需声调），直接阅读每个声母韵母的介绍。
+
+粤语有一套完善的正字方案，对于很多“识讲唔识写”的字，可以参照粤语协会制定的这套推荐用字表
+
+- [粵語字打法大全（2007賀歲版）](http://www.cantonese.asia/attachments/school/canchars.htm)
 
 #### 南宁话
 
 我们的南宁白话拼音方案由LeiMaau提供，根据粤拼改编而成。对于想尽快学会南宁白话拼音打字的朋友，可以直接阅读其方案总览：
 
-- [**南宁白话拼音方案**](https://leimaau.github.io/book/PHONETICIZE.html)
+- [南宁白话拼音方案](https://leimaau.github.io/book/PHONETICIZE.html)
 
 ## 闽南语
 
@@ -67,13 +67,13 @@ sidebar_sort_order: 3
 
 我们提供的泉漳闽南语拼音方案由a-thok提供，参考台湾教育部所颁布的台湾闽南语罗马字拼音方案改编而成，兼容泉州、漳州、厦门、台湾口音。想尽快学会此拼音打字的朋友，可直接阅读台罗官网介绍和教程：
 
-- [**臺羅拼音方案佮學習網**](http://www.ntcu.edu.tw/tailo/sound.htm)
+- [臺羅拼音方案佮學習網](http://www.ntcu.edu.tw/tailo/sound.htm)
 
 #### 潮汕话（含潮汕六地口音，通行于潮汕、港澳、东南亚等地）
 
 我们提供的潮汕话拼音方案是由Tenda Huang提供的《潮语拼音方案》，包含潮州、汕头、澄海、饶平、揭阳、潮阳六地口音。此拼音方案由1960年广东省教育部门发布的《潮州话拼音方案》改编而成。下面的链接是这个方案的官方介绍和教程：
 
-- [**潮语拼音教程**](https://kahaani.github.io/gatian/index.html)
+- [潮语拼音教程](https://kahaani.github.io/gatian/index.html)
 
 对于以潮汕话为母语、想尽快学会潮语拼音打字的朋友，可以直接阅读其附录一，选择自己的母语方音阅读，可以跳过声调部分（输入法打字无需声调）。
 
@@ -83,8 +83,8 @@ sidebar_sort_order: 3
 
 我们提供的梅县客家话拼音方案是由薪典团队编写的客语拼音方案，参照台湾客家语拼音方案改编而成。其团队官网首页即是此方案的发音字典：
 
-- [**薪典**](http://syndict.com/)
+- [薪典](http://syndict.com/)
 
 对于以客家话为母语、想尽快学会客拼打字的朋友，可直接阅读此官方教程
 
-- [**客語拼音結構**](http://syndict.com/hakka/tutorial/1.8.htm)
+- [客語拼音結構](http://syndict.com/hakka/tutorial/1.8.htm)

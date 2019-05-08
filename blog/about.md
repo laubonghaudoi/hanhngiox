@@ -17,25 +17,32 @@ sidebar_sort_order: 5
 
 还要感谢提供各大方言拼音方案的个人和团队：
 
+- [芽油](https://github.com/Yaryou)
+- [滕謄](https://github.com/tengtengteng)
 - [a-thok](https://github.com/a-thok)
 - [biopolyhedron](https://github.com/biopolyhedron)
 - [cryptogun](https://github.com/cryptogun)
+- [Electric Sheep](https://github.com/shinzoqchiuq)
 - [Hector Sioh](https://github.com/only3km)
 - [inzoi](https://github.com/inzoi)
 - [LeiMaau](https://github.com/leimaau)
+- [LimTo](https://github.com/LimTo)
 - [lois.左](https://github.com/xunux)
+- [osfans](https://github.com/osfans)
+- [Papnas](https://github.com/Papnas)
 - [Patrick T.](https://github.com/Patricivs)
+- [syndict](https://github.com/syndict)
 - [Tenda Huang](https://github.com/Kahaani)
 - [tsauibusato](https://github.com/tsauibusato)
+- [uliloewi](https://github.com/uliloewi)
 - [吴语学堂](http://www.goetian.net/main/index.php?s=/Home/Article/detail/id/1.html)
-- [滕謄](https://github.com/tengtengteng)
 - [薪典](http://syndict.com/about.htm)
 
 以下是本网站作者的联系方式：
 - 知乎私信：[劉邦後代](https://www.zhihu.com/people/lau-bong-hau-doi)
-- 联系邮箱：[laubonghaudoi@qq.com](mailto:laubonghaudoi@qq.com)
+- 联系邮箱：[laubonghaudoi@icloud.com](mailto:laubonghaudoi@icloud.com)
 
 关于本网站设计、内容（教程、文章、方案收录和请求等）有任何意见或疑问，欢迎邮件或知乎私信向我反馈。感谢各位对本项目的支持和帮助。
 
 本网站由以下项目支持：
-[Rime输入法汉语方言拼音方案全集](https://github.com/laubonghaudoi/Chinese_dialect_Rime_schema)
+[中州韻輸入法漢語方言拼音方案全集](https://github.com/laubonghaudoi/Chinese_Rime)

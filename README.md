@@ -11,7 +11,6 @@
 
 ## 教程内支持语言
 
-
 <ul>
     <li>
         <details>
@@ -32,6 +31,7 @@
             </summary>
             <ul>
                 <li>南京话 - 洪巢片</li>
+                <li>泰如话 - 通泰片</li>
             </ul>
         </details>
     </li>
@@ -127,6 +127,7 @@
                 客家话
             </summary>
             <ul>
+                <li>通用客家话</li>
                 <li>梅县话 - 粤台片</li>
             </ul>
         </details>
@@ -137,7 +138,7 @@
                 晋语
             </summary>
             <ul>
-                解州话
+                <li>嘉乐泉话 - 并州片</li>
             </ul>
         </details>
     </li>
