@@ -44,6 +44,8 @@ sidebar_link: false
   - 枣庄话：嶧州話傳統羅馬字 `tsauibusato/yihdjoouhuah`
 - 江淮官话
   - 南京话：南京話拼音输入法 `uliloewi/lang2jin1`
+  - 黄冈话 - 黄孝片 `yuxifongfei/hubehua`
+  - 鄂城话 - 黄孝片 `yuxifongfei/hubehua`
 - 西南官话
   - 通用四川话 - 蜀拼通音 `Papnas/shupin`
   - 成都话 - 蜀拼-成都 `Papnas/shupin`
@@ -51,6 +53,7 @@ sidebar_link: false
   - 宜宾话 - 蜀拼-宜賓 `Papnas/shupin`
   - 贵阳话 - 蜀拼-貴陽 `Papnas/shupin`
   - 自贡话 - 蜀拼-自貢 `Papnas/shupin`
+  - 武汉话 - 武漢 `yuxifongfei/hubehua`
 - 吴语
   - 苏州话：吳語（蘇州） `NGLI/rime-wugniu_soutseu`
   - 上海话：吳語（上海） `NGLI/rime-wugniu_zaonhe`
@@ -64,9 +67,11 @@ sidebar_link: false
 - 粤语
   - 广州话：粤拼 `jyutping`
   - 南宁话：南寧白話輸入方案 `leimaau/naamning_jyutping`
-  - 藤县话：粵語勾漏片藤县白话 `cryptogun/gaulau_jyutping
-`
-- 莆仙語（兴化语）
+  - 藤县话：粵語勾漏片藤县白话 `cryptogun/gaulau_jyutping`
+- 客家话
+  - 通用客家话：客語 `syndict/hakka`
+  - 梅县话：客語-梅縣 `syndict/hakka`
+- 莆仙语（兴化语）
   - 莆田话：興化語莆田城關話 `Yaryou/HinghuaFactory`
 - 闽南语（河洛话）
   - 厦门话：閩南語廈門音 `a-thok/rime-hokkien`
@@ -95,7 +100,7 @@ sidebar_link: false
 
 #### 1 找到你的方言拼音方案文件
 
-1. 首先点击[这里](https://github.com/laubonghaudoi/Chinese_Rime/releases/download/v0.1.2/v0.1.2.zip)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有一个`default.custom.yaml`和`default.yaml`文件（这两个文件是给其他平台用户的，我们Windows忽略它就行了）和以各大方言区命名的文件夹。![](.\win\win2.png)
+1. 首先点击[这里](https://www.icloud.com/iclouddrive/07J9Id9RquQsrdMag25JlG9bA#latest)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有一个`default.custom.yaml`和`default.yaml`文件（这两个文件是给其他平台用户的，我们Windows忽略它就行了）和以各大方言区命名的文件夹。![](.\win\win2.png)
 2. 我们这里以苏州话为例，打开`吴语/苏州话`，可以看见里面有两个文件：`wugniu_soutseu.dict.yaml`和`wugniu_soutseu.schema.yaml`，如下图，这就是我们要的拼音方案了。（如果你好奇这两个文件是什么来的，看[这里](../blog/faq.md)）
    ![](.\win\win10.png)
 

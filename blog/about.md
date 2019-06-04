@@ -17,6 +17,7 @@ sidebar_sort_order: 5
 
 还要感谢提供各大方言拼音方案的个人和团队：
 
+- [羽随风飞](https://github.com/yuxifongfei)
 - [芽油](https://github.com/Yaryou)
 - [滕謄](https://github.com/tengtengteng)
 - [a-thok](https://github.com/a-thok)
