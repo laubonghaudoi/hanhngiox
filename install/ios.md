@@ -37,7 +37,7 @@ iRime自带了粤语广州话和闽南语潮汕话的拼音方案（粤拼），
 
 #### 1 找到你的方言拼音方案文件
 
-首先点击[这里](https://www.icloud.com/iclouddrive/07J9Id9RquQsrdMag25JlG9bA#latest)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有一个`default.custom.yaml`文件和以各大方言区命名的文件夹。
+首先点击[这里](https://www.icloud.com/iclouddrive/0dPS83mznhuPpzlDYc8SrWTpA#download)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有一个`default.custom.yaml`文件和以各大方言区命名的文件夹。
 ![](.\ios\ios9.png)
 找到你想要输入的方言。我们这里以苏州话为例，打开`吴语/苏州话`，可以见到里面有两个文如下图有两个文件：`wugniu_soutseu.dict.yaml`和`wugniu_soutseu.schema.yaml`，这就是我们要的拼音方案了。（如果你好奇这两个文件是什么来的，看[这里](..\blog\faq.md)）
 ![](.\win\win10.png)

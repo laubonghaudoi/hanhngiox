@@ -100,7 +100,7 @@ sidebar_link: false
 
 #### 1 找到你的方言拼音方案文件
 
-1. 首先点击[这里](https://www.icloud.com/iclouddrive/07J9Id9RquQsrdMag25JlG9bA#latest)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有一个`default.custom.yaml`和`default.yaml`文件（这两个文件是给其他平台用户的，我们Windows忽略它就行了）和以各大方言区命名的文件夹。![](.\win\win2.png)
+1. 首先点击[这里](https://www.icloud.com/iclouddrive/0dPS83mznhuPpzlDYc8SrWTpA#download)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有一个`default.custom.yaml`和`default.yaml`文件（这两个文件是给其他平台用户的，我们Windows忽略它就行了）和以各大方言区命名的文件夹。![](.\win\win2.png)
 2. 我们这里以苏州话为例，打开`吴语/苏州话`，可以看见里面有两个文件：`wugniu_soutseu.dict.yaml`和`wugniu_soutseu.schema.yaml`，如下图，这就是我们要的拼音方案了。（如果你好奇这两个文件是什么来的，看[这里](../blog/faq.md)）
    ![](.\win\win10.png)
 

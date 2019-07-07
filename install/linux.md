@@ -55,7 +55,7 @@ ibus-rime自带了粤语广州话的拼音方案（粤拼），所以想输入�
 
 #### 1 找到你的方言拼音方案文件
 
-1. 首先点击[这里](https://www.icloud.com/iclouddrive/07J9Id9RquQsrdMag25JlG9bA#latest)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有以各大方言区命名的文件夹，如下图![](.\linux\linux17.png)
+1. 首先点击[这里](https://www.icloud.com/iclouddrive/0dPS83mznhuPpzlDYc8SrWTpA#download)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有以各大方言区命名的文件夹，如下图![](.\linux\linux17.png)
 2. 我们这里以苏州话为例，打开`吴语/苏州话`，可以见到里面有两个文件：`wugniu_soutseu.dict.yaml`和`wugniu_soutseu.schema.yaml`，这就是我们要的拼音方案了。（如果你好奇这两个文件是什么来的，看[这里](../blog/faq.md)）![](.\linux\linux20.png)
 
 
