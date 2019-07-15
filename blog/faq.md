@@ -35,6 +35,6 @@ sidebar_sort_order: 6
 
 1. 多多向亲戚朋友们分享这个网站：www.hanhngiox.net，让更多的人知道我们这项事业。
 2. 按照本网站的教程安装使用中州韵系列输入法，平时多用方言拼音打字，
-3. 对于输入法，向我[反馈](mailto:laubonghaudoi@icloud.com)各种bug。对于项目和网站本身，提任何改进意见。
+3. 对于输入法，向我[反馈](mailto:laubonghaudoi@icloud.com)各种bug。对于项目和网站本身，提任何改进意见。如果你会用GitHub的话，可以直接在我的[项目仓库](https://github.com/laubonghaudoi/Chinese_Rime/issues)里新开一个issue
 4. 如果你愿意为扩展方言拼音词库贡献自己的用户词库，让输入法更智能好用，欢迎[联系我](mailto:laubonghaudoi@icloud.com)。
 5. 如果你懂语言学或会编程，想为这个项目做更高级的贡献，也请[联系我](mailto:laubonghaudoi@icloud.com)。
