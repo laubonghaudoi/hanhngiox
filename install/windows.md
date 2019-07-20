@@ -7,6 +7,18 @@ sidebar_link: false
 
 # Windows平台安装部署教程（以Win 10为例）
 
+## 目录
+
+- [第一步：安装小狼毫输入法](#第一步安装小狼毫输入法)
+- [第二步 （仅限部分语言）快捷启用拼音方案](#第二步-仅限部分语言快捷启用拼音方案)
+- [第二步（通用方法）部署方言拼音方案](#第二步通用方法部署方言拼音方案)
+  - [1 找到你的方言拼音方案文件](#1-找到你的方言拼音方案文件)
+  - [2 复制拼音方案文件](#2-复制拼音方案文件)
+  - [3 启用拼音方案](#3-启用拼音方案)
+- [小结](#小结)
+- [但是我只会打普通话拼音，方言拼音该怎么打？](#但是我只会打普通话拼音方言拼音该怎么打)
+- [（可选步骤）自定义小狼毫外观](#可选步骤自定义小狼毫外观)
+
 如概述所说，安装过程只有两步：
 
 1. 安装小狼毫输入法
@@ -38,54 +50,105 @@ sidebar_link: false
 
 小狼毫默认自带了部分语言的拼音方案，可以免去较繁琐的部署过程直接启拼音方案。**如果你的想输入的语言在以下列表**中，可继续阅读本节快速启用方言拼音，**否则直接跳到下一节使用通用方法部署拼音方案**。
 
-- 中原官话
-  - 洛阳话：洛陽羅馬字　`Patricivs/lakyang`
-  - 郑州话：中州羅馬字　`lotem/rime-zhung`
-  - 枣庄话：嶧州話傳統羅馬字 `tsauibusato/yihdjoouhuah`
-- 江淮官话
-  - 南京话：南京話拼音输入法 `uliloewi/lang2jin1`
-  - 黄冈话 - 黄孝片 `yuxifongfei/hubehua`
-  - 鄂城话 - 黄孝片 `yuxifongfei/hubehua`
-- 西南官话
-  - 通用四川话 - 蜀拼通音 `Papnas/shupin`
-  - 成都话 - 蜀拼-成都 `Papnas/shupin`
-  - 重庆话 - 蜀拼-重慶 `Papnas/shupin`
-  - 宜宾话 - 蜀拼-宜賓 `Papnas/shupin`
-  - 贵阳话 - 蜀拼-貴陽 `Papnas/shupin`
-  - 自贡话 - 蜀拼-自貢 `Papnas/shupin`
-  - 武汉话 - 武漢 `yuxifongfei/hubehua`
-- 吴语
-  - 苏州话：吳語（蘇州） `NGLI/rime-wugniu_soutseu`
-  - 上海话：吳語（上海） `NGLI/rime-wugniu_zaonhe`
-  - 松江话：吳語（松江） `NGLI/rime-wugniu_zaonhe`
-  - 宁波话：吳語（寧波） `NGLI/rime-wugniu_gninpou`
-  - 桐乡话：吳語（桐鄉） `NGLI/rime-wugniu_kashin`
-  - 海宁话：吳語（海寧） `NGLI/rime-wugniu_kashin`
-  - 海盐话：吳語（海鹽） `NGLI/rime-wugniu_kashin`
-  - 嘉兴话：吳語（嘉興） `NGLI/rime-wugniu_kashin`
-  - 嘉善话：吳語（嘉善） `NGLI/rime-wugniu_kashin`
-- 粤语
-  - 广州话：粤拼 `jyutping`
-  - 南宁话：南寧白話輸入方案 `leimaau/naamning_jyutping`
-  - 藤县话：粵語勾漏片藤县白话 `cryptogun/gaulau_jyutping`
-- 客家话
-  - 通用客家话：客語 `syndict/hakka`
-  - 梅县话：客語-梅縣 `syndict/hakka`
-- 莆仙语（兴化语）
-  - 莆田话：興化語莆田城關話 `Yaryou/HinghuaFactory`
-- 闽南语（河洛话）
-  - 厦门话：閩南語廈門音 `a-thok/rime-hokkien`
-  - 台湾话：閩南語臺灣音 `a-thok/rime-hokkien`
-  - 漳州话：閩南語漳州音 `a-thok/rime-hokkien`
-  - 泉州话：閩南語泉州音 `a-thok/rime-hokkien`
-  - 潮州话：潮語拼音（潮州） `Kahaani/dieghv`
-  - 汕头话：潮語拼音（汕頭） `Kahaani/dieghv`
-  - 潮阳话：潮語拼音（潮陽） `Kahaani/dieghv`
-  - 揭阳话：潮語拼音（揭陽） `Kahaani/dieghv`
-  - 澄海话：潮語拼音（澄海） `Kahaani/dieghv`
-  - 饶平话：潮語拼音（饒平） `Kahaani/dieghv`
+（点击三角形展开列表）
+<ul>
+    <li>
+        <details>
+            <summary>中原官话</summary>
+            <ul>
+                <li>洛阳话：洛陽羅馬字 <code>Patricivs/lakyang</code></li>
+                <li>郑州话：中州羅馬字 <code>lotem/rime-zhung</code></li>
+                <li>枣庄话：嶧州話傳統羅馬字 <code>tsauibusato/yihdjoouhuah</code></li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary>江淮官话</summary>
+            <ul>
+                <li>南京话：南京話拼音输入法 <code>uliloewi/lang2jin1</code></li>
+                <li>黄冈话 - 黄孝片 <code>yuxifongfei/hubehua</code></li>
+                <li>鄂城话 - 黄孝片 <code>yuxifongfei/hubehua</code></li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary>西南官话</summary>
+            <ul>
+                <li>通用四川话 - 蜀拼通音 <code>Papnas/shupin</code></li>
+                <li>成都话 - 蜀拼-成都 <code>Papnas/shupin</code></li>
+                <li>重庆话 - 蜀拼-重慶 <code>Papnas/shupin</code></li>
+                <li>宜宾话 - 蜀拼-宜賓 <code>Papnas/shupin</code></li>
+                <li>贵阳话  蜀拼-貴陽 <code>Papnas/shupin</code></li>
+                <li>自贡话 - 蜀拼-自貢 <code>Papnas/shupin</code></li>
+                <li>武汉话 - 武漢 <code>yuxifongfei/hubehua</code></li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary>吴语</summary>
+            <ul>
+                <li>苏州话：吳語（蘇州） <code>NGLI/rime-wugniu_soutseu</code></li>
+                <li>上海话：吳語（上海） <code>NGLI/rime-wugniu_zaonhe</code></li>
+                <li>松江话：吳語（松江） <code>NGLI/rime-wugniu_zaonhe</code></li>
+                <li>宁波话：吳語（寧波） <code>NGLI/rime-wugniu_gninpou</code></li>
+                <li>桐乡话：吳語（桐鄉） <code>NGLI/rime-wugniu_kashin</code></li>
+                <li>海宁话：吳語（海寧） <code>NGLI/rime-wugniu_kashin</code></li>
+                <li>海盐话：吳語（海鹽） <code>NGLI/rime-wugniu_kashin</code></li>
+                <li>嘉兴话：吳語（嘉興） <code>NGLI/rime-wugniu_kashin</code></li>
+                <li>嘉善话：吳語（嘉善） <code>NGLI/rime-wugniu_kashin</code></li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary>粤语</summary>
+            <ul>
+                <li>广州话：粤拼 <code>jyutping</code></li>
+                <li>南宁话：南寧白話輸入方案 <code>leimaau/naamning_jyutping</code></li>
+                <li>藤县话：粵語勾漏片藤县白话 <code>cryptogun/gaulau_jyutping</code></li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary>客家话</summary>
+            <ul>
+                <li>客家话通音：客語 <code>syndict/hakka</code></li>
+                <li>梅县话：客語-梅縣 <code>syndict/hakka</code></li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary>莆仙语（兴化语）</summary>
+            <ul>
+                <li>莆田话：興化語莆田城關話 <code>Yaryou/HinghuaFactory</code></li>
+            </ul>
+        </details>
+    </li>
+    <li>
+        <details>
+            <summary>闽南语（河洛话）</summary>
+            <ul>
+                <li>厦门话：閩南語廈門音 <code>a-thok/rime-hokkien</code></li>
+                <li>台湾话：閩南語臺灣音 <code>a-thok/rime-hokkien</code></li>
+                <li>漳州话：閩南語漳州音 <code>a-thok/rime-hokkien</code></li>
+                <li> 泉州话：閩南語泉州音 <code>a-thok/rime-hokkien</code></li>
+                <li>潮州话：潮語拼音（潮州） <code>Kahaani/dieghv</code></li>
+                <li>汕头话：潮語拼音（汕頭） <code>Kahaani/dieghv</code></li>
+                <li>潮阳话：潮語拼音（潮陽） <code>Kahaani/dieghv</code></li>
+                <li>揭阳话：潮語拼音（揭陽） <code>Kahaani/dieghv</code></li>
+                <li>澄海话：潮語拼音（澄海） <code>Kahaani/dieghv</code></li>
+                <li>饶平话：潮語拼音（饒平） <code>Kahaani/dieghv</code></li>
+            </ul>
+        </details>
+    </li>
+</ul>
 
-上面的列表中，每门语言之后的是拼音方案名称，后面一串字母是方案代号。有的语言例如潮汕话，是多个方音共用一个方案代号`Kahaani/dieghv`。找到自己语言的方案名称和代号之后开始以下步骤启用方案：
+上面列表中每一行的格式都是是“语言名：方案名称 `方案代号`”，有的语言例如潮汕话，是多个方音共用一个方案代号`Kahaani/dieghv`。找到自己语言的方案名称和代号之后按以下步骤启用方案：
 1. 打开“【小狼毫】输入法设定”![](.\win\win11.png)
 2. 点击左下方的“獲取更多輸入方案”![](.\win\win37.png)
 3. 这时会弹出一个命令行界面![](.\win\win38.png)
