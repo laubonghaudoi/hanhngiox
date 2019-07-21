@@ -17,8 +17,10 @@ sidebar_sort_order: 5
 
 还要感谢提供各大方言拼音方案的个人和团队：
 
-- [羽随风飞](https://github.com/yuxifongfei)
 - [芽油](https://github.com/Yaryou)
+- [羽随风飞](https://github.com/yuxifongfei)
+- [吴语学堂](http://www.goetian.net/main/index.php?s=/Home/Article/detail/id/1.html)
+- [薪典](http://syndict.com/about.htm)
 - [滕謄](https://github.com/tengtengteng)
 - [a-thok](https://github.com/a-thok)
 - [biopolyhedron](https://github.com/biopolyhedron)
@@ -26,18 +28,17 @@ sidebar_sort_order: 5
 - [Electric Sheep](https://github.com/shinzoqchiuq)
 - [Hector Sioh](https://github.com/only3km)
 - [inzoi](https://github.com/inzoi)
+- [jimmy54](https://github.com/jimmy54)
 - [LeiMaau](https://github.com/leimaau)
 - [LimTo](https://github.com/LimTo)
 - [lois.左](https://github.com/xunux)
-- [osfans](https://github.com/osfans)
 - [Papnas](https://github.com/Papnas)
 - [Patrick T.](https://github.com/Patricivs)
 - [syndict](https://github.com/syndict)
 - [Tenda Huang](https://github.com/Kahaani)
 - [tsauibusato](https://github.com/tsauibusato)
 - [uliloewi](https://github.com/uliloewi)
-- [吴语学堂](http://www.goetian.net/main/index.php?s=/Home/Article/detail/id/1.html)
-- [薪典](http://syndict.com/about.htm)
+- [Yuanchen Sieh](https://github.com/HesperusArcher)
 
 以下是本网站作者的联系方式：
 - 知乎私信：[劉邦後代](https://www.zhihu.com/people/lau-bong-hau-doi)
