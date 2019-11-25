@@ -122,6 +122,6 @@ sidebar_sort_order: 3
 
 - [薪典](http://syndict.com/)
 
-对于以客家话为母语、想尽快学会客拼打字的朋友，可直接阅读此官方教程
+对于以客家话为母语、想尽快学会客拼打字的朋友，可直接阅读此官方教程：
 
 - [客語拼音結構](http://syndict.com/hakka/tutorial/1.8.htm)
