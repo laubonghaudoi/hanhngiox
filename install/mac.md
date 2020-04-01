@@ -42,7 +42,7 @@ sidebar_link: false
 
 #### 1 找到你的方言拼音方案文件
 
-1. 首先点击[这里](https://www.icloud.com/iclouddrive/0dPS83mznhuPpzlDYc8SrWTpA#download)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有两个`default.custom.yaml`、`default.yaml`文件和以各大方言区命名的文件夹![](.\mac\mac13.png)
+1. 首先点击[这里](https://www.icloud.com/iclouddrive/0avr_qtfuyJ2i5CHseRsR9yZg#download)下载最新版的汉语方言拼音方案合集，打开压缩包可以看到里面有两个`default.custom.yaml`、`default.yaml`文件和以各大方言区命名的文件夹![](.\mac\mac13.png)
 2. 我们这里以苏州话为例，打开`吴语/苏州话`，可以看见里面有两个文件`wugniu_soutseu.dict.yaml`和`wugniu_soutseu.schema.yaml`，如下图，这就是我们要的拼音方案了。（如果你好奇这两个文件是什么来的，看[常见问题解答](../blog/faq.md)）![](.\mac\mac14.png)
 
 #### 2 复制拼音方案文件
