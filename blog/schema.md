@@ -91,7 +91,7 @@ sidebar_sort_order: 3
 
 官网上同样有一篇给正在学习粤语的朋友的粤拼教程：
 
-- [粵拼——我只會普通話 / 國語](https://www.jyutping.org/docs/cantonese/)
+- [粵拼——我只會普通話 / 國語](https://www.jyutping.org/zh-cmn-hant/docs/mandarin/)
 
 對於粵語學習者，使用粤拼打字能大幅提高学习效率，纠正练习粤语发音。
 
